@@ -238,7 +238,7 @@ const [readData, setReadData] = useState({user_list:'', users:'', level_price:''
         <div className="col-lg-6 col-md-6 col-sm-12 grid-margin">
           <div className="card">
             <div className="card-body">
-              <h5>User List </h5>
+              <h5>User ID </h5>
               <div className="row">
                 <div className="col-12 col-sm-12 col-xl-12 my-auto">
                   <div className="d-flex d-sm-block d-md-flex align-items-center">
